@@ -49,6 +49,7 @@ Here are some of the technologies and coding languages I work with:
   - <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="24" height="24"> Linux
  
 - **Hardware & IoT**:
+  - <img src="https://www.svgrepo.com/show/207054/3d-printer.svg" alt="3D Printing" width="24" height="24"> 3D Printing 
   - <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" width="24" height="24"> Arduino
   - <img src="https://www.svgrepo.com/show/354258/raspberry-pi.svg" alt="Raspberry Pi" width="24" height="24"> Raspberry Pi
   - <img src="https://www.svgrepo.com/show/469825/smart-house.svg" alt="Sensors/Automation" width="24" height="24"> Sensors and Home Automation
