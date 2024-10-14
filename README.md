@@ -28,6 +28,32 @@ I strive to understand what a person truly needs and aim to deliver solutions th
 
 I’m excited about finding ways to connect Mechatronics with Data Science. I believe there’s a lot of potential to create something beautiful by combining these fields.
 
+## 🛠️ Technologies & Tools
+
+Here are some of the technologies and coding languages I work with:
+
+- **Programming Languages**:
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="24" height="24"> Python
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="24" height="24"> C
+  - <img src="https://www.svgrepo.com/show/342053/mysql.svg" alt="SQL" width="24" height="24"> SQL
+  - <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="Bash" width="24" height="24"> Bash
+
+- **Frameworks**:
+  - <img src="https://www.svgrepo.com/show/354240/pytorch.svg" alt="PyTorch" width="24" height="24"> PyTorch
+
+- **Visualization Tools**:
+  - <img src="https://www.tableau.com/sites/default/files/pages/tableau_logo.png" alt="Tableau" width="24" height="24"> Tableau
+  - <img src="https://matplotlib.org/_static/logo_dark.svg" alt="MatPlotlib" width="24" height="24"> MatplotLib
+
+- **Operating System**:
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="24" height="24"> Linux
+ 
+- **Hardware & IoT**:
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" width="24" height="24"> Arduino
+  - <img src="https://www.svgrepo.com/show/354258/raspberry-pi.svg" alt="Raspberry Pi" width="24" height="24"> Raspberry Pi
+  - <img src="https://www.svgrepo.com/show/469825/smart-house.svg" alt="Sensors/Automation" width="24" height="24"> Sensors and Home Automation
+  - <img src="https://www.svgrepo.com/show/474770/circuit.svg" alt="PCBs" width="24" height="24"> Printed Circuit Boards
+
 ## 📫 Let's Connect!
 
 If you want to collaborate, share ideas, or just chat about tech, feel free to reach out! You can find me on:
