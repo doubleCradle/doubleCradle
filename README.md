@@ -12,6 +12,14 @@ Welcome to my GitHub profile! I'm a Mechatronics Engineer who recently ventured 
 - **SQL Knowledge**: I’m skilled in SQL for managing and querying data.
 - **Visualization Enthusiast**: I’m currently into practicing visualization tools like tableau and power-bi.
 
+## 💻 My Workstation
+
+I prefer working in a Linux environment, where I can accomplish tasks using just one terminal. I enjoy **bash scripting** to automate boring tasks, making my workflow more efficient and enjoyable.
+
+## 🚗 My Startup Journey
+
+I run a **4-year-old startup** focused on manufacturing electric automobiles. As the sole technical person, I design and fabricate prototypes that are robust and reliable for Indian roads. Currently, the startup is self-funded, with all prototypes developed using my pocket money or through freelancing for software-related roles. 
+
 ## 💡 My Approach
 
 I enjoy tackling challenges with a positive attitude. Like Deadpool, I might take unconventional paths to solve problems, but I always get the job done! 
