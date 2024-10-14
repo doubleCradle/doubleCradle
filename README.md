@@ -25,5 +25,6 @@ I’m excited about finding ways to connect Mechatronics with Data Science. I be
 If you want to collaborate, share ideas, or just chat about tech, feel free to reach out! You can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/iamagrawalaman) <!-- Replace with your LinkedIn profile link -->
+- [Email](brutalbaniya@duck.com)
 
 Thanks for visiting my profile! Let’s create something amazing together! 🚀
