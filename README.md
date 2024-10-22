@@ -22,7 +22,7 @@ I run a **4-year-old startup** focused on manufacturing electric automobiles. As
 
 ## 💡 My Approach
 
-I strive to understand what a person truly needs and aim to deliver solutions that closely align with their imagination. I believe that effective communication and empathy are key to creating impactful results. Like Deadpool, I might take unconventional paths to solve problems, but I always get the job done!
+I strive to understand what a person truly needs and aim to deliver solutions that closely align with their imagination. I believe that effective communication and empathy are key to creating impactful results. Like Deadpool, I might take unconventional paths to solve problems, but I always get the job done!"Maximum Effort!"
 
 ## 🌱 Exploring New Ideas
 
