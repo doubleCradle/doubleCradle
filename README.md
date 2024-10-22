@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a Mechatronics Engineer who recently ventured 
 - **Mechatronics Engineer**: I blend mechanical, electronic, and software engineering to create innovative solutions.
 - **Data Scientist**: I love working with data to uncover insights and build models.
 - **Python Coder**: I mainly use Python and have experience with PyTorch for deep learning.
-- **SQL Knowledge**: I’m skilled in SQL for managing and querying data.
+- **SQLer**: I’m skilled in SQL for managing and querying data.
 - **Visualization Enthusiast**: I’m currently into practicing visualization tools like tableau and power-bi.
 
 ## 💻 My Workstation
