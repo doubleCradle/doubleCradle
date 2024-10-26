@@ -19,7 +19,7 @@ I’m excited about finding ways to connect Mechatronics with Data Science. I be
 Here are some of the technologies and coding languages I work with:
 
 - **Programming Languages**:
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="24" height="24"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="24" height="24"> <img src="https://www.svgrepo.com/show/342053/mysql.svg" alt="SQL" width="24" height="24"> <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="Bash" width="24" height="24">
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="24" height="24"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="24" height="24"> <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="SQL" width="24" height="24"> <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="Bash" width="24" height="24">
 
 - **Frameworks**:
   - <img src="https://www.svgrepo.com/show/354240/pytorch.svg" alt="PyTorch" width="24" height="24"> PyTorch
