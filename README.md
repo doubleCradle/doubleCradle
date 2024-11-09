@@ -7,19 +7,19 @@ MAXIMUM EFFORT
 
 ![](https://komarev.com/ghpvc/?username=doubleCradle&style=flat-square)
 
-## 🚗 My Startup Journey
+### 🚗 My Startup Journey
 
 I run a **4-year-old startup** focused on manufacturing electric automobiles. As the sole technical person, I design and fabricate prototypes that are robust and reliable for Indian roads. Currently, the startup is self-funded, with all prototypes developed using my pocket money or through freelancing for software-related roles. 
 
-## 💡 My Approach
+### 💡 My Approach
 
 I strive to understand what a person truly needs and aim to deliver solutions that closely align with their imagination. I believe that effective communication and empathy are key to creating impactful results. Like Deadpool, I might take unconventional paths to solve problems, but I always get the job done!"Maximum Effort!"
 
-## 🌱 Exploring New Ideas
+### 🌱 Exploring New Ideas
 
 I’m excited about finding ways to connect Mechatronics with Data Science. I believe there’s a lot of potential to create something beautiful by combining these fields.
 
-## 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools
 
 Here are some of the technologies and coding languages I work with:
 
@@ -35,7 +35,7 @@ Here are some of the technologies and coding languages I work with:
 - **Hardware & IoT**:
   - <img src="https://www.svgrepo.com/show/207054/3d-printer.svg" alt="3D Printing" width="24" height="24"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" width="24" height="24"> <img src="https://www.svgrepo.com/show/354258/raspberry-pi.svg" alt="Raspberry Pi" width="24" height="24"> <img src="https://www.svgrepo.com/show/469825/smart-house.svg" alt="Sensors/Automation" width="24" height="24"> <img src="https://www.svgrepo.com/show/474770/circuit.svg" alt="PCBs" width="24" height="24">
 
-## 📫 Let's Connect!
+### 📫 Let's Connect!
 
 If you want to collaborate, share ideas, or just chat about tech, feel free to reach out! You can find me on:
 
