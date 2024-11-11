@@ -5,8 +5,6 @@ Welcome to my GitHub profile! I'm a Mechatronics Engineer who recently ventured 
 MAXIMUM EFFORT
 ```
 
-![](https://komarev.com/ghpvc/?username=doubleCradle&style=flat-square)
-
 ### 🚗 My Startup Journey
 
 I run a **4-year-old startup** focused on manufacturing electric automobiles. As the sole technical person, I design and fabricate prototypes that are robust and reliable for Indian roads. Currently, the startup is self-funded, with all prototypes developed using my pocket money or through freelancing for software-related roles. 
