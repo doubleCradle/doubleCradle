@@ -1,1 +1,1 @@
-This profile is disabled and will remain inactive indefinitely.
+Active
